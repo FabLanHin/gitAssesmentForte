@@ -1,0 +1,5 @@
+<div>
+	<h1>Rama Feature</h1>
+	<h2>Alejandro Fabian Landeros Hinojosa</h2>
+	<p>En esta rama implementare este documento para luego hacer merge con la rama principal de mi git</p>
+</div>
